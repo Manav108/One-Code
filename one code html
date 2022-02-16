@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="One_Code.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap" rel="stylesheet">
+    <title>One Code</title>
+</head>
+
+<body>
+    <div class="heading">
+        <ul>
+            <li>Home</li>
+            <li>Other product</li>
+            <li>Email Us</li>
+            <li>Login In</li>
+        </ul>
+    </div>
+    <div class="section">
+        <div class="imagecontainer">
+            <img class="image" src="photo.jpg">
+            <h1 class="imageheading">HP Pavilion <br></h1>
+        </div>
+        <h2>Price = &#8377 50,000</h2>
+        <div class="boxcontainer">
+            <div class="processor">
+                <p class="processordetail"> Processor - Ryzen 5 5000 series <br>
+                    Ram - 8GB <br>
+                    SSD- 512GB <br>
+                    Graphic - 4GB <br>
+                </p>
+            </div>
+            <div class="quality">
+                <p class="qualitydetails">
+                    Screen size - 15.6 inch <br>
+                    Color - Purple <br>
+                    Weight- 2kg <br>
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+
+</body>
+
+</html>
